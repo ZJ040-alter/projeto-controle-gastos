@@ -1,7 +1,9 @@
-# Projeto - Controle de Gastos pessoais
+# Project - Login Web
 
-*Descrição* - Projeto para a criaçãode aplicação de controle de gastos pessoais, utilizando tecnologias mobile.
+*Description* - A simple and functional login screen interface, developed with a focus on usability and responsive design. Includes e-mail and password fields. Ideal como base para sistemas web ou projetos de autenticação.
 
-## Indice
-
-### Tecnologia
+## technologies used
+  * HTML5  
+  * CSS3
+  * BOOTSTRAP
+  * GIT and GitHub  
